@@ -1,1 +1,1 @@
-
+This is my main portfolio. I included my projects and apps that I have built for the past six months. Still working on new applicatons and learing new technologies and a lifetime student at learning full stack. 
